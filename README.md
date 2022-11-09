@@ -1,7 +1,7 @@
 # README
 # CIDM6325 - Justin Stout - 6325 - SATXFSHD web app
 ---
-## This repo will be for the final project
+## This repo will be for the final project iterations
 #### This readme is for markup only at this time.
 # Project Tech Specs
 The guidance on prototype development creates a Baseline, Good, Better, Best approach for Django feature targeting that will provide the best chance for you to realize a rich prototype.
