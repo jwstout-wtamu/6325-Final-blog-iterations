@@ -7,7 +7,7 @@
 The guidance on prototype development creates a Baseline, Good, Better, Best approach for Django feature targeting that will provide the best chance for you to realize a rich prototype.
 
 ### Assignment Requirements:
-- [x] For this assignment, create a new Github repository that will be used for your final project Django prototype.  https://github.com/jwstout-wtamu/6325-SATXFSHD-Project.git
+- [x] For this assignment, create a new Github repository that will be used for your final project Django iterations.  https://github.com/jwstout-wtamu/6325-Final-blog-iterations.git
 - [x] This repository should be for the final project only. 
 ### This web application will be a Community of knowledge blog regarding the FSHD Community at the local level.
 | Site major features      | Description |
