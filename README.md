@@ -50,3 +50,4 @@ I've redone the site and will post this to a VPS once we receive the solution ha
 2. Footer follows the aside.html which has the Contact us card and Donation cards
 3. SEO analysis
 
+
